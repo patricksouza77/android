@@ -88,7 +88,7 @@ main {
     margin-left: 200px;
     margin-right: 150px;
     margin-bottom: 20px; /*há a possibilidade de usar margem negativa ex: 10px;*/
-    min-width: 300px;
+    min-width: 400px;
     max-width: 900px;
     box-shadow: 0px 0px 1px black;
 }
